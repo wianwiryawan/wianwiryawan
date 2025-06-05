@@ -2,7 +2,7 @@
 
 I'm a software developer for Web and Mobile App. I have experience with NodeJs, Java, Flutter Dart, and Database.
 
-<img width="80%" alt="Check my GitHub Page!" src="https://github.com/wianwiryawan/wianwiryawan/blob/main/raw/master/assets/gh-readme-banner.png" style="max-width: 100%;">
+<a href="https://wianwiryawan.github.io/"><img width="80%" alt="Check my GitHub Page!" src="https://github.com/wianwiryawan/wianwiryawan/blob/main/raw/master/assets/gh-readme-banner.png" style="max-width: 100%;">
 
 <!--
 **wianwiryawan/wianwiryawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
